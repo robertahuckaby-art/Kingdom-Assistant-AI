@@ -1,0 +1,6 @@
+{
+  "name": "Kingdom Assistant AI",
+  "description": "Kingdom Author Studio: A professional, AI-powered writing, publishing, children's book, Christian devotional, and content creation workspace for authors and educators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
